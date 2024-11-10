@@ -42,4 +42,5 @@ git clone https://github.com/rusmakar/final_control_work.git
 * *Дополнительные методы (если применимо) — для удобства можно выделить отдельный метод для фильтрации.*
 ## Блок-схема
 * *Пример блок-схемы для алгоритма, используемого в программе:*
+
 ![Блок-схема](https://github.com/rusmakar/final_control_work/raw/main/blok-shema.jpg)
