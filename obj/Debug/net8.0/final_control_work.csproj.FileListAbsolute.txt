@@ -1,0 +1,15 @@
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\bin\Debug\net8.0\final_control_work.exe
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\bin\Debug\net8.0\final_control_work.deps.json
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\bin\Debug\net8.0\final_control_work.runtimeconfig.json
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\bin\Debug\net8.0\final_control_work.dll
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\bin\Debug\net8.0\final_control_work.pdb
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.AssemblyInfoInputs.cache
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.AssemblyInfo.cs
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.csproj.CoreCompileInputs.cache
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.sourcelink.json
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.dll
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\refint\final_control_work.dll
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.pdb
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\final_control_work.genruntimeconfig.cache
+C:\Users\WS\Desktop\GB\final_control_work\final_control_work\obj\Debug\net8.0\ref\final_control_work.dll
